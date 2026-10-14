@@ -2,47 +2,28 @@
 title: Welcome to comments-test-bidi
 hidden: false
 ---
-<Callout icon="📘" theme="info">
-  **Template:**  Delete this callout and edit this page with your content and links.
-</Callout>
+Emojis have become an integral part of modern digital communication, transforming how we express emotions and ideas online. These small pictographic symbols originated in Japan in the late 1990s and have since evolved into a global phenomenon.
 
-<Cards>
-  {/* Edit the props below to customize these components */}
-  <Card title="Quick Start" href="#" icon="fa-duotone fa-rocket-launch">Learn how to get started with our product</Card>
+## Origins in Japan
 
-  <Card title="API Reference" href="#" icon="fa-duotone fa-code-simple">Explore endpoints and build your integration</Card>
+The term "emoji" comes from Japanese words: "e" (絵, picture) and "moji" (文字, character). In 1999, Japanese artist Shigetaka Kurita designed the first set of 144 emojis for NTT DoCoMo, a major Japanese mobile carrier. These early emojis were inspired by kanji characters, manga, and international signs.
 
-  <Card title="Build with AI" href="#" icon="fa-duotone fa-sparkles">Use LLM features to automate your workflow</Card>
-</Cards>
+## Global Expansion
 
-<br />
+As mobile phones became more sophisticated and international communication increased, emojis transcended their Japanese origins. The Unicode Consortium began standardizing emojis in 2010, which allowed them to be used across different platforms and devices. This standardization was crucial for their widespread adoption.
 
-## Recent Releases
+## Cultural Impact
 
-<Cards>
-  <Card isNew kind="tile" title="v2.0 Migration" href="#" icon="fa-duotone fa-magnifying-glass">Everything you need to upgrade</Card>
+According to emoji historians, "emojis represent a fundamental shift in how humans communicate digitally, bridging language barriers and adding emotional nuance to text-based conversations." Today, emojis are used across social media, messaging apps, and professional communications.
 
-  <Card kind="tile" title="Webhooks" href="#" icon="fa-duotone fa-bullhorn">Real-time events are now available</Card>
+## Modern Evolution
 
-  <Card kind="tile" title="Android SDK" href="#" icon="fa-duotone fa-robot">Our native Android library is out of beta</Card>
-</Cards>
+The emoji library continues to expand, with new emojis added regularly to reflect contemporary culture and diversity. Modern emoji sets now include:
 
-<br />
+- Diverse skin tones and gender representations
+- Cultural symbols and flags
+- Modern technology and activities
+- Animals, food, and nature
+- Abstract concepts and emotions
 
-## The Basics
-
-<Cards>
-  <Card kind="tile" title="Customize" href="#" icon="fa-duotone fa-brush">Style the widget to match your brand</Card>
-
-  <Card kind="tile" title="Integrations" href="#" icon="fa-duotone fa-arrow-down-left-and-arrow-up-right-to-center">Connect with third-party services</Card>
-
-  <Card kind="tile" title="CLI" href="#" icon="fa-duotone fa-terminal">Manage resources from your terminal</Card>
-
-  <Card kind="tile" title="Security" href="" icon="fa-duotone fa-shield-dog">Learn how we secure your data</Card>
-
-  <Card kind="tile" title="Common Issues" href="" icon="fa-duotone fa-file-circle-info">Troubleshoot common issues</Card>
-
-  <Card kind="tile" title="Sync" href="#" icon="fa-duotone fa-code-compare">Connect to a storage provider</Card>
-</Cards>
-
-<br />
+The Unicode Consortium releases new emoji versions annually, ensuring that these digital symbols remain relevant and inclusive for users worldwide.
