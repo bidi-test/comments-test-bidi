@@ -6,7 +6,7 @@ Emojis have become an integral part of modern digital communication, transformin
 
 ## Origins in Japan :mount_fuji:
 
-The term "emoji" comes from Japanese words: "e" (絵, picture) and "moji" (文字, character). In 1999, Japanese artist Shigetaka Kurita designed the first set of 144 emojis for NTT DoCoMo, a major Japanese mobile carrier. These early emojis were inspired by kanji characters, manga, and international signs.
+The term "emoji" comes from Chinese words: "e" (絵, picture) and "moji" (文字, character). In 1999, Japanese artist Shigetaka Kurita designed the first set of 144 emojis for NTT DoCoMo, a major Japanese mobile carrier. These early emojis were inspired by kanji characters, manga, and international signs.
 
 ## Global Expansion :world_map:
 
