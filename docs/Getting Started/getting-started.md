@@ -10,7 +10,7 @@ The term "emoji" comes from Chinese words: "e" (絵, picture) and "moji" (文字
 
 ## Global Expansion :world_map:
 
-As mobile phones became more sophisticated and international communication increased, emojis transcended their Japanese origins. The Unicode Consortium began standardizing emojis in 2010, which allowed them to be used across different platforms and devices. This standardization was crucial for their widespread adoption.
+As mobile phones TEST became more sophisticated and international communication increased, emojis transcended their Japanese origins. The Unicode Consortium began standardizing emojis in 2010, which allowed them to be used across different platforms and devices. This standardization was crucial for their widespread adoption.
 
 ## Cultural Impact :cyclone:
 
